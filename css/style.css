@@ -518,6 +518,10 @@ body {
         margin: 16px;
     }
     
+    .fa-2x {
+        font-size: 2em;
+    }
+
     .icons {
         /* display: flex; */
         margin-top: 12px;
